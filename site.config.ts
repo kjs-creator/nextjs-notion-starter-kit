@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Notion-Github-Vercel 온라인 이력서 제작방법',
-  domain: 'https://notion-starter-kmou.vercel.app',
-  author: 'Woen-Sug Choi',
+  name: '권재석 이력서',
+  domain: 'jskwon.vercel.app',
+  author: '권재석',
 
   // open graph metadata (optional)
-  description: 'Notion페이지를 Github-Vercel을 이용해 Nextjs기반 온라인 이력서 페이지 제작방법',
+  description: '권재석의 이력서',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
